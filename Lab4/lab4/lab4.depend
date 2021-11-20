@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635524351 source:c:\users\qwery\desktop\lab4\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
+1635525148 source:c:\users\qwery\desktop\lab4\lab4\function.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
