@@ -1,3 +1,0 @@
-﻿  main.c
-C:\Users\Qwery\Desktop\Программирование\ИЗ\ИЗ 2\ITSecond\main.c(9,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
-  ITSecond.vcxproj -> C:\Users\Qwery\Desktop\Программирование\ИЗ\ИЗ 2\ITSecond\Debug\ITSecond.exe
